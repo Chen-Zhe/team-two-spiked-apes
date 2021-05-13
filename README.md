@@ -1,5 +1,6 @@
-# team-two-spiked-apes
-This is the repository for the 11785 spring 2021 course project of team two-spiked-ape. The topic is using beta-VAE for automatic scene change detection on Kimi No Na Wa dataset.
+# Unsupevised Scene Change Detection using Beta-VAE
+## by Project Two Spiked Apes
+This is the repository for the 11785 spring 2021 course project of Project Two Spiked Apes. The topic is using beta-VAE for automatic scene change detection on Kimi No Na Wa dataset.
 The codes are integrated into different notebooks here, categorized by model architectures or functions:
 - baseline-*: Vanilla beta-VAE model used for providing baseline accuracy and ablation study.
 - many2one-*: Model that uses a window of images instead of a single image as input.

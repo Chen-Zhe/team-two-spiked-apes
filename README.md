@@ -1,4 +1,6 @@
 # Unsupevised Scene Change Detection using Beta-VAE
+Our project report can be found [here](11_785_Team_23_two_spiked_apes_Project_Final_Report.pdf)
+
 ## by Project Two Spiked Apes
 This is the repository for the 11785 spring 2021 course project of Project Two Spiked Apes. The topic is using beta-VAE for automatic scene change detection on Kimi No Na Wa dataset.
 The codes are integrated into different notebooks here, categorized by model architectures or functions:
